@@ -1,0 +1,7 @@
+source,cost_per_order_inr,type,basis
+"Meesho - value e-commerce, delivered",42.0,disclosed,"Logistics cost per placed order, Q1 FY27"
+"Zepto - q-commerce, supply-chain variable",61.2,disclosed,"Picking, packing and delivery per order, Q4 FY26 DRHP"
+This model - drop point,67.85,model,"All stages, drop point at 45 orders/run"
+This model - home delivery,97.1,model,"All stages, home last mile with refusal cost"
+Spencer's Jiffy - store-led delivery,98.5,disclosed,"Fulfilment cost per order, FY26"
+Bernstein - q-commerce fulfilment floor,99.0,analyst,"Floor even with batching and efficiency, Apr-May 2026"

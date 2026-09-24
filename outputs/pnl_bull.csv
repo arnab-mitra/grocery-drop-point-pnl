@@ -1,0 +1,4 @@
+scenario,year,drop_points,orders_per_point_per_day,orders_mn,customers_mn,aov_inr,gmv_cr,gross_margin_cr,gross_margin_pct,ad_revenue_cr,ad_revenue_pct,platform_gross_profit_cr,platform_gross_profit_pct,fulfilment_cost_cr,variable_cost_per_order_inr,marketing_cr,cm1_cr,cm1_per_order_inr,drop_point_fixed_cr,cm2_cr,cm2_per_order_inr,warehouse_fixed_cr,tech_people_cr,ebitda_cr,ebitda_pct_of_gmv,cumulative_ebitda_cr
+bull,1,120,28.6,1.25,0.14,509.0,63.7,9.8,0.1534,0.7,0.0115,10.5,0.1649,8.4,67.18,4.1,-2.0,-15.74,2.4,-4.4,-34.78,10.8,26.4,-41.6,-0.652,-41.6
+bull,2,650,44.2,10.49,0.75,551.0,578.0,94.3,0.1631,10.6,0.0184,104.9,0.1815,70.9,67.65,27.0,6.9,6.61,12.9,-6.0,-5.7,33.6,45.6,-85.2,-0.1474,-126.8
+bull,3,2200,62.400000000000006,50.11,2.64,594.0,2974.4,507.5,0.1706,68.4,0.023,576.0,0.1936,341.3,68.12,96.1,138.6,27.66,43.7,94.9,18.93,74.4,69.6,-49.1,-0.0165,-175.9

@@ -1,0 +1,5 @@
+metric,value,interpretation
+Breakeven orders per vehicle run,6.4,Below this density drop point costs MORE than home delivery
+Modelled density at maturity,45.0,Headroom: 7.08x the breakeven density
+Breakeven AOV at mature density,429.0,Gross margin of 15.8% must cover Rs 67.85 of cost per order
+Modelled AOV at maturity,560.0,"The margin, not the basket size, is the binding constraint"

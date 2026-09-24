@@ -1,0 +1,14 @@
+rank,driver,low_inr_cr,high_inr_cr,swing_inr_cr,direction
+1,Gross margin % of GMV (Year 3),-236.1,-65.6,170.5,higher driver is better
+2,AOV (Year 3),-220.5,-81.3,139.2,higher driver is better
+3,Marketing % of GMV (Year 3),-130.4,-171.4,41.0,lower driver is better
+4,Warehouse fixed cost (Year 3),-132.3,-169.5,37.2,lower driver is better
+5,Tech and people cost (Year 3),-133.5,-168.3,34.8,lower driver is better
+6,Drop-point handling fee per order,-138.9,-162.8,23.9,lower driver is better
+7,Drop-point fixed cost per month,-139.0,-162.7,23.7,lower driver is better
+8,Ad revenue % of GMV (Year 3),-161.7,-140.1,21.6,higher driver is better
+9,Orders per drop point per day (Year 3),-161.0,-140.7,20.3,higher driver is better
+10,Shrinkage % of GMV,-144.9,-156.8,11.9,lower driver is better
+11,Orders per vehicle run,-157.0,-147.2,9.8,higher driver is better
+12,Vehicle run cost,-146.2,-155.5,9.3,lower driver is better
+13,Refusal rate at drop point,-150.4,-151.4,1.0,lower driver is better

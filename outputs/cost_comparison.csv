@@ -1,0 +1,9 @@
+stage,home_delivery_inr,drop_point_inr,delta_inr,note,delta_pct
+First mile (seller to FC),9.0,9.0,0.0,identical in both models,0.0
+Sortation,6.5,6.5,0.0,identical in both models,0.0
+Line haul (FC to city),17.0,17.0,0.0,identical in both models,0.0
+Payment,4.5,4.5,0.0,identical in both models,0.0
+Packaging,7.5,7.5,0.0,identical in both models,0.0
+Shrinkage,6.16,6.16,0.0,identical in both models,0.0
+Last mile,46.44,17.19,-29.24,drop point at 45 orders per vehicle run,-63.0
+TOTAL cost per order,97.1,67.85,-29.24,,-30.1

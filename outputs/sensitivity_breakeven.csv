@@ -1,0 +1,6 @@
+metric,value
+Mature-year CM2 breakeven density (orders per point per day),56.1
+Planned mature-year density,48
+Headroom vs breakeven,0.86
+Operational rollout gate in config,34
+Note,The config gate is an operational floor for opening a point; the economic threshold above it is stricter. Both must be reported.

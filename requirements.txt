@@ -1,0 +1,5 @@
+# Standard data-analysis stack. No exotic or pinned-to-a-build dependencies, so the
+# project reproduces on any recent Python 3.
+pandas>=2.0
+numpy>=1.24
+matplotlib>=3.7

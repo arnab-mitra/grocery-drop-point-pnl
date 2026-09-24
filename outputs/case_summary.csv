@@ -1,0 +1,4 @@
+scenario,y3_orders_mn,y3_gmv_cr,y3_gross_margin_cr,y3_cm1_per_order_inr,y3_cm2_per_order_inr,y3_ebitda_cr,y3_ebitda_pct,first_year_cm2_positive,cumulative_ebitda_cr,peak_cumulative_burn_cr
+base,38.54,2158.5,341.0,10.55,-1.78,-150.9,-0.0699,,-294.2,294.2
+bull,50.11,2974.4,507.5,27.66,18.93,-49.1,-0.0165,3.0,-175.9,175.9
+bear,26.21,1365.0,198.4,-6.8,-26.74,-214.1,-0.1568,,-365.7,365.7

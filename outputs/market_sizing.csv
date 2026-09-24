@@ -1,0 +1,6 @@
+layer,base_households_mn,value_inr_cr,value_usd_bn,basis
+TAM - all-India household grocery spend,322.7,3679091.0,443.3,All Indian households x monthly grocery spend x 12
+TAM - Tier-2/3+ household grocery spend,232.4,2648945.0,319.2,Households outside the top metros
+Served-adjacent - packaged staples and non-perishable FMCG,232.4,1456920.0,175.5,"Excludes fresh (cold chain, shrinkage, q-commerce's home turf)"
+SAM - online-addressable share of that,232.4,320522.0,38.6,What is realistically transactable online in the medium term
+SOM - a new entrant's 3-year share,232.4,2564.0,0.3,Deliberately conservative: a 0-1 bet against q-commerce and kirana
